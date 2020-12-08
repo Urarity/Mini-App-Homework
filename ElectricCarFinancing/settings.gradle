@@ -1,0 +1,2 @@
+rootProject.name='Electric Car Financing'
+include ':app'
